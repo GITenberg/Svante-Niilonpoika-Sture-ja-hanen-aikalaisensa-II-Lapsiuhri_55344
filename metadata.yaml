@@ -1,5 +1,8 @@
 _repo: Svante-Niilonpoika-Sture-ja-hanen-aikalaisensa-II-Lapsiuhri_55344
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stjernström, Louise
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '48264'
     url: http://www.gutenberg.org/2009/agents/48264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55344#Svante-Niilonpoika-Sture-ja-hanen-aikalaisensa-II-Lapsiuhri
 gutenberg_issued: '2017-08-11'
 gutenberg_type: Text
 identifiers:
